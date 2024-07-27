@@ -1,0 +1,4 @@
+"Heart": "MEDICATION: Ramipril,Valsartan,Bumetanide, Eplerenone."
+         "TESTS:        Echocardiogram.
+                        Electrocardiogram (ECG or EKG).
+                        Chest X-ray."

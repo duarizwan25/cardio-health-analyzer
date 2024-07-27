@@ -1,0 +1,7 @@
+ Patient_name: uyfyof 
+ Patient_age: 45
+"Valve": "MEDICATION: Avapro,Tenormin,Warfarin"
+         "TESTS:      Echocardiogram.
+                      Electrocardiogram (ECG or EKG).
+                      Cardiac catheterization."
+

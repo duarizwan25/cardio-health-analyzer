@@ -1,0 +1,4 @@
+"Rhythm": "Prescription: Comadin, Digoxin,Amiodarone,Sotalol."
+          "TESTS:        Electrocardiogram (ECG or EKG). 
+                         Holter monitoring.
+                         Electrophysiology study (EPS)."

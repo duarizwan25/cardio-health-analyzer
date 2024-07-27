@@ -1,0 +1,4 @@
+"Vein": "MEDICATION: Heparin,Prasugrel,Cilostazol,Diltiazem."
+        "TESTS:      Ankle-brachial index (ABI).
+                     Doppler ultrasound.
+                     Angiography."

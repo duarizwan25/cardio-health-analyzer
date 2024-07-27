@@ -1,0 +1,4 @@
+"Stroke": "MEDICATION: Plavix,Xarelto,Tenecteplase,Losartan.\n"
+          "TESTS:      CT or MRI scans.
+                       Carotid ultrasound.
+                       Echocardiogram.

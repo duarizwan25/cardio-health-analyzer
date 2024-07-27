@@ -1,0 +1,41 @@
+raby,7371
+sets,7035
+
+pati,2539
+Patient name: grfs
+ Patient age: 12
+"Heart": "MEDICATION: Ramipril,Valsartan,Bumetanide, Eplerenone."
+         "TESTS:        Echocardiogram.
+                        Electrocardiogram (ECG or EKG).
+                        Chest X-ray."
+
+ksoz,0908
+Patient name: grfs
+ Patient age: 12
+"Heart": "MEDICATION: Ramipril,Valsartan,Bumetanide, Eplerenone."
+         "TESTS:        Echocardiogram.
+                        Electrocardiogram (ECG or EKG).
+                        Chest X-ray."
+
+"Heart": "MEDICATION: Ramipril,Valsartan,Bumetanide, Eplerenone."
+         "TESTS:        Echocardiogram.
+                        Electrocardiogram (ECG or EKG).
+                        Chest X-ray."
+
+jmpn,4511
+Patient name: grfs
+ Patient age: 12
+"Heart": "MEDICATION: Ramipril,Valsartan,Bumetanide, Eplerenone."
+         "TESTS:        Echocardiogram.
+                        Electrocardiogram (ECG or EKG).
+                        Chest X-ray."
+
+"Heart": "MEDICATION: Ramipril,Valsartan,Bumetanide, Eplerenone."
+         "TESTS:        Echocardiogram.
+                        Electrocardiogram (ECG or EKG).
+                        Chest X-ray."
+
+"Heart": "MEDICATION: Ramipril,Valsartan,Bumetanide, Eplerenone."
+         "TESTS:        Echocardiogram.
+                        Electrocardiogram (ECG or EKG).
+                        Chest X-ray."
